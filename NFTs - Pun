@@ -1,9 +1,12 @@
 {
-    "project": "NFTs-Pun",
+    "project": "8bitsAnimal",
     "tags": [
-        "Pun"
+        "Animal",
+        "bit",
+        "NFTsPun",
+        
     ],
     "policies": [
-        "38594e74f4a7bdfcbe50e1844fb3d3f0d0332b110cd8b34b5d3afc89"
+        "d30cc3cfe5eafb9d1ccb858bd23bd449af09ada3f3e6cc966f2687f3"
     ]
 }
